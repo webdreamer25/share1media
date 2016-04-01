@@ -1,0 +1,11 @@
+{
+  "name": "s1m",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Edgar Olivares <edgarolivares29@yahoo.com>",
+  "license": "MIT"
+}
